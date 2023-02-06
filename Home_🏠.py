@@ -34,8 +34,8 @@ with st.container():
         st.write("")
         st.subheader('What I do')
         st.write("""
-        On the professional side of things, I specialise in offering data analytics and data cleaning services 
-        to small businesses, research teams and students. For more info, drop me an email at ryan19.roc@gmail.com. 
+        I specialise in offering data analytics and data cleaning services to small businesses, 
+        research teams and students. For more info, drop me an email at ryan19.roc@gmail.com. 
         """)
 
 # Add the quantitative skills section
