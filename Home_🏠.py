@@ -92,7 +92,16 @@ with st.container():
         [View the App](https://ryanoc21-revised-weather-forecast-web-app-main-ryp7aq.streamlit.app)
         """)
 
-        # Football App
+        # Web Scraping Premier League Data
+        st.subheader("Web Scraping Premier League Data 🏟️")
+        st.write("""
+        Web scraping data from a popular football data website using the Python Beautiful Soup library. 
+        The program scrapes Premier League results and shooting data for every team over the last two seasons
+        and writes the data to a pandas dataframe. 
+        [Source Code]("https://github.com/ryanoc21/plwebscraping")
+        """)
+
+        # Top Scorers App
         st.subheader("Premier League Top Scorers App ⚽️")
         st.write("""
         A streamlit web app that scrapes premier league top scorer data from a popular football stats website. 
