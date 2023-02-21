@@ -102,11 +102,12 @@ with st.container():
         """)
 
         # Top Scorers App
-        st.subheader("Premier League Top Scorers App ⚽️")
+        st.subheader("Premier League Data App ⚽️")
         st.write("""
-        A streamlit web app that scrapes premier league top scorer data from a popular football stats website. 
-        The user can choose which team they want to view the data for and the relevant bar chart will be displayed. 
-        [View the App](https://ryanoc21-pl-statistics-streamlit-app-main-jvg010.streamlit.app)
+        A streamlit web app that scrapes premier league team data from a popular football stats website using 
+        BeautifulSoup.The user can choose which team they want to view the data for and the relevant bar chart 
+        will be displayed. 
+        [View the App](https://ryanoc21-improved-pl-data-app-main-056x32.streamlit.app)
         """)
 
         # Economic Data App
